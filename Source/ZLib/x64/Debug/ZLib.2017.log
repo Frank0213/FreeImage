@@ -1,0 +1,23 @@
+﻿  adler32.c
+  compress.c
+  crc32.c
+  deflate.c
+  gzclose.c
+  gzlib.c
+  gzread.c
+e:\freeimage3180\freeimage\source\zlib\gzread.c(319): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+e:\freeimage3180\freeimage\source\zlib\gzread.c(400): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+e:\freeimage3180\freeimage\source\zlib\gzread.c(472): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  gzwrite.c
+e:\freeimage3180\freeimage\source\zlib\gzwrite.c(212): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+e:\freeimage3180\freeimage\source\zlib\gzwrite.c(232): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+e:\freeimage3180\freeimage\source\zlib\gzwrite.c(371): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  infback.c
+  inffast.c
+  inflate.c
+  inftrees.c
+  trees.c
+  uncompr.c
+  zutil.c
+  正在生成代码...
+  ZLib.2017.vcxproj -> E:\FreeImage3180\FreeImage\Source\ZLib\.\x64\Debug\ZLib.lib

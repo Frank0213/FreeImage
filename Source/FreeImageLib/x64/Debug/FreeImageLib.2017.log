@@ -1,0 +1,203 @@
+﻿  BitmapAccess.cpp
+e:\freeimage3180\freeimage\source\freeimage\bitmapaccess.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\freeimage3180\freeimage\source\metadata\freeimagetag.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  ColorLookup.cpp
+  ConversionRGBA16.cpp
+e:\freeimage3180\freeimage\source\freeimage\conversionrgba16.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  ConversionRGBAF.cpp
+e:\freeimage3180\freeimage\source\freeimage\conversionrgbaf.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  FreeImage.cpp
+e:\freeimage3180\freeimage\source\freeimage\freeimage.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  FreeImageIO.cpp
+  GetType.cpp
+e:\freeimage3180\freeimage\source\freeimage\gettype.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  LFPQuantizer.cpp
+e:\freeimage3180\freeimage\source\quantizers.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  MemoryIO.cpp
+e:\freeimage3180\freeimage\source\freeimage\memoryio.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  PixelAccess.cpp
+e:\freeimage3180\freeimage\source\freeimage\pixelaccess.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  NNQuantizer.cpp
+e:\freeimage3180\freeimage\source\freeimage\nnquantizer.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\freeimage3180\freeimage\source\quantizers.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  WuQuantizer.cpp
+e:\freeimage3180\freeimage\source\freeimage\wuquantizer.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\freeimage3180\freeimage\source\quantizers.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Conversion.cpp
+e:\freeimage3180\freeimage\source\quantizers.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Conversion16_555.cpp
+e:\freeimage3180\freeimage\source\freeimage\conversion16_555.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Conversion16_565.cpp
+e:\freeimage3180\freeimage\source\freeimage\conversion16_565.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Conversion24.cpp
+e:\freeimage3180\freeimage\source\freeimage\conversion24.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Conversion32.cpp
+e:\freeimage3180\freeimage\source\freeimage\conversion32.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Conversion4.cpp
+  Conversion8.cpp
+e:\freeimage3180\freeimage\source\freeimage\conversion8.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  ConversionFloat.cpp
+e:\freeimage3180\freeimage\source\freeimage\conversionfloat.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+  正在编译...
+  ConversionRGB16.cpp
+e:\freeimage3180\freeimage\source\freeimage\conversionrgb16.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  ConversionRGBF.cpp
+e:\freeimage3180\freeimage\source\freeimage\conversionrgbf.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  ConversionType.cpp
+e:\freeimage3180\freeimage\source\freeimage\conversiontype.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  ConversionUINT16.cpp
+e:\freeimage3180\freeimage\source\freeimage\conversionuint16.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Halftoning.cpp
+e:\freeimage3180\freeimage\source\freeimage\halftoning.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  tmoColorConvert.cpp
+e:\freeimage3180\freeimage\source\freeimage\tmocolorconvert.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\freeimage3180\freeimage\source\tonemapping.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  tmoDrago03.cpp
+e:\freeimage3180\freeimage\source\freeimage\tmodrago03.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\freeimage3180\freeimage\source\tonemapping.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  tmoFattal02.cpp
+e:\freeimage3180\freeimage\source\freeimage\tmofattal02.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\freeimage3180\freeimage\source\tonemapping.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  tmoReinhard05.cpp
+e:\freeimage3180\freeimage\source\freeimage\tmoreinhard05.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\freeimage3180\freeimage\source\tonemapping.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  ToneMapping.cpp
+e:\freeimage3180\freeimage\source\freeimage\tonemapping.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  J2KHelper.cpp
+e:\freeimage3180\freeimage\source\freeimage\j2khelper.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  MNGHelper.cpp
+e:\freeimage3180\freeimage\source\freeimage\mnghelper.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Plugin.cpp
+e:\freeimage3180\freeimage\source\metadata\freeimagetag.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  PluginBMP.cpp
+e:\freeimage3180\freeimage\source\freeimage\pluginbmp.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  PluginCUT.cpp
+  PluginDDS.cpp
+e:\freeimage3180\freeimage\source\freeimage\plugindds.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  PluginEXR.cpp
+e:\freeimage3180\freeimage\source\freeimage\pluginexr.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  PluginG3.cpp
+e:\freeimage3180\freeimage\source\freeimage\pluging3.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  PluginGIF.cpp
+e:\freeimage3180\freeimage\source\metadata\freeimagetag.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  PluginHDR.cpp
+e:\freeimage3180\freeimage\source\freeimage\pluginhdr.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+  正在编译...
+  PluginICO.cpp
+e:\freeimage3180\freeimage\source\freeimage\pluginico.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  PluginIFF.cpp
+e:\freeimage3180\freeimage\source\freeimage\pluginiff.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  PluginJ2K.cpp
+e:\freeimage3180\freeimage\source\freeimage\pluginj2k.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  PluginJNG.cpp
+  PluginJP2.cpp
+e:\freeimage3180\freeimage\source\freeimage\pluginjp2.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  PluginJPEG.cpp
+e:\freeimage3180\freeimage\source\freeimage\pluginjpeg.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\freeimage3180\freeimage\source\metadata\freeimagetag.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  PluginJXR.cpp
+e:\freeimage3180\freeimage\source\metadata\freeimagetag.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\freeimage3180\freeimage\source\libjxr\jxrgluelib\jxrglue.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\freeimage3180\freeimage\source\libjxr\jxrgluelib\jxrmeta.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\freeimage3180\freeimage\source\libjxr\image\sys\windowsmediaphoto.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  PluginKOALA.cpp
+  PluginMNG.cpp
+  PluginPCD.cpp
+  PluginPCX.cpp
+e:\freeimage3180\freeimage\source\freeimage\pluginpcx.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  PluginPFM.cpp
+e:\freeimage3180\freeimage\source\freeimage\pluginpfm.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  PluginPICT.cpp
+  PluginPNG.cpp
+e:\freeimage3180\freeimage\source\metadata\freeimagetag.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  PluginPNM.cpp
+e:\freeimage3180\freeimage\source\freeimage\pluginpnm.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  PluginPSD.cpp
+  PluginRAS.cpp
+e:\freeimage3180\freeimage\source\freeimage\pluginras.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  PluginRAW.cpp
+e:\freeimage3180\freeimage\source\freeimage\pluginraw.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\freeimage3180\freeimage\source\librawlite\libraw\libraw_const.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\freeimage3180\freeimage\source\metadata\freeimagetag.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  PluginSGI.cpp
+  PluginTARGA.cpp
+  正在生成代码...
+  正在编译...
+  PluginTIFF.cpp
+e:\freeimage3180\freeimage\source\metadata\freeimagetag.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  PluginWBMP.cpp
+e:\freeimage3180\freeimage\source\freeimage\pluginwbmp.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  PluginWebP.cpp
+e:\freeimage3180\freeimage\source\metadata\freeimagetag.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  PluginXBM.cpp
+e:\freeimage3180\freeimage\source\freeimage\pluginxbm.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  PluginXPM.cpp
+e:\freeimage3180\freeimage\source\freeimage\pluginxpm.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  PSDParser.cpp
+e:\freeimage3180\freeimage\source\metadata\freeimagetag.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  TIFFLogLuv.cpp
+e:\freeimage3180\freeimage\source\freeimage\tifflogluv.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CacheFile.cpp
+  MultiPage.cpp
+  ZLibInterface.cpp
+  Exif.cpp
+e:\freeimage3180\freeimage\source\metadata\exif.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\freeimage3180\freeimage\source\metadata\freeimagetag.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\freeimage3180\freeimage\source\metadata\exif.cpp(889): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  FIRational.cpp
+e:\freeimage3180\freeimage\source\metadata\firational.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\freeimage3180\freeimage\source\metadata\firational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  FreeImageTag.cpp
+e:\freeimage3180\freeimage\source\metadata\freeimagetag.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\freeimage3180\freeimage\source\metadata\freeimagetag.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  IPTC.cpp
+e:\freeimage3180\freeimage\source\metadata\iptc.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\freeimage3180\freeimage\source\metadata\freeimagetag.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  TagConversion.cpp
+e:\freeimage3180\freeimage\source\metadata\tagconversion.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\freeimage3180\freeimage\source\metadata\freeimagetag.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\freeimage3180\freeimage\source\metadata\firational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  TagLib.cpp
+e:\freeimage3180\freeimage\source\metadata\taglib.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\freeimage3180\freeimage\source\metadata\freeimagetag.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  XTIFF.cpp
+e:\freeimage3180\freeimage\source\metadata\freeimagetag.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\freeimage3180\freeimage\source\metadata\firational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Background.cpp
+  BSplineRotate.cpp
+e:\freeimage3180\freeimage\source\freeimagetoolkit\bsplinerotate.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Channels.cpp
+e:\freeimage3180\freeimage\source\freeimagetoolkit\channels.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+  正在编译...
+  ClassicRotate.cpp
+e:\freeimage3180\freeimage\source\freeimagetoolkit\classicrotate.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Colors.cpp
+e:\freeimage3180\freeimage\source\freeimagetoolkit\colors.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CopyPaste.cpp
+e:\freeimage3180\freeimage\source\freeimagetoolkit\copypaste.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Display.cpp
+e:\freeimage3180\freeimage\source\freeimagetoolkit\display.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Flip.cpp
+e:\freeimage3180\freeimage\source\freeimagetoolkit\flip.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  JPEGTransform.cpp
+  MultigridPoissonSolver.cpp
+e:\freeimage3180\freeimage\source\freeimagetoolkit\multigridpoissonsolver.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\freeimage3180\freeimage\source\tonemapping.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Rescale.cpp
+e:\freeimage3180\freeimage\source\freeimagetoolkit\rescale.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\freeimage3180\freeimage\source\freeimagetoolkit\resize.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\freeimage3180\freeimage\source\freeimagetoolkit\filters.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Resize.cpp
+e:\freeimage3180\freeimage\source\freeimagetoolkit\resize.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\freeimage3180\freeimage\source\freeimagetoolkit\resize.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\freeimage3180\freeimage\source\freeimagetoolkit\filters.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+OpenEXR.lib(ImathBox.obj) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+OpenEXR.lib(ImathShear.obj) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+  FreeImageLib.2017.vcxproj -> E:\FreeImage3180\FreeImage\Source\FreeImageLib\.\x64\Debug\FreeImageLib.lib
+  子目录或文件 ..\..\Dist\x64 已经存在。
+  已复制         1 个文件。
+  已复制         1 个文件。
